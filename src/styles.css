@@ -3,10 +3,5 @@
 @tailwind utilities;
 
 
-@layer components {
-    .btn-primary {
-      @apply text-gray-100 text-2xl font-mullish font-bold;
-  }
-}
 
 
